@@ -1,20 +1,87 @@
 {
-  "Titre": "Les Minions",
-  "directeur": "Kyle Balda, Pierre Coffin",
-  "Auteur": "Brian Lynch,",
-  "Date": 2015,
-  "Vedette": [
+  "Films":[
     {
-      "Nom": "Sandra Bullock",
-      "Personnage": "Scarlet Overkill (voix)"
+      "Titre": "Les Minions",
+      "directeur": "Kyle Balda, Pierre Coffin",
+      "Auteur": "Brian Lynch,",
+      "Date": 2015,
+      "Budget": "$74,000,000 (estimé)",
+      "Fin de semaine d'ouverture au USA": "$115,718,405, 12 Juillet 2015",
+      "Total USA": "$336,045,770",
+      "Total dans le monde": "$1,159,443,203",
+      "Vedette": [
+        {
+          "Nom": "Sandra Bullock",
+          "Personnage": "Scarlet Overkill (voix)"
+        },
+        {
+          "Nom": "Jon Hamm",
+          "Personnage": "Herb Overkill  (voix)"
+        },
+        {
+          "Nom": "Michael Keaton",
+          "Personnage": "Walter Nelson (voix)"
+        }
+      ],
+      "Description": "Stuart, Kevin et Bob sont recrutés par Scarlet Overkill, une super-vilaine qui, aux côtés de son inventeur de mari Herb, élabore un complot pour conquérir le monde."
     },
+    
     {
-      "Nom": "Jon Hamm",
-      "Personnage": "Herb Overkill  (voix)"
+      "Titre": "Iron Man",
+      "directeur": "Jon Favreau",
+      "Auteur": " Mark Fergus, Hawk Ostby",
+      "Date": 2008,
+      "Budget": "$140,000,000 (estimé)",
+      "Fin de semaine d'ouverture au USA": "$98,618,668, 4 Mai 2008",
+      "Total USA": "$319,034,126",
+      "Total dans le monde": "$585,796,247",
+      "Vedette": [
+        {
+          "Nom": "Robert Downey Jr.",
+          "Age": 55,
+          "Personnage": "Tony Stark"
+        },
+        {
+          "Nom": "Gwyneth Paltrow",
+          "Age": 47,
+          "Personnage": "Pepper Potts"
+        },
+        {
+          "Nom": "Terrence Howard",
+          "Age": 51,
+          "Personnage": "Rhodey"
+        }
+      ],
+      "Description": "Après avoir été retenu prisonnier dans une grotte afghane, l'ingénieur milliardaire Tony Stark crée une armure unique pour lutter contre le mal."
     },
+    
     {
-      "Nom": "Michael Keaton",
-      "Personnage": "Walter Nelson (voix)"
+      "Titre": "Fight Club",
+      "directeur": "David Fincher",
+      "Auteur": " Chuck Palahniuk, Jim Uhls ",
+      "Date": 1999,
+      "Budget": "$63,000,000 (estimé)",
+      "Fin de semaine d'ouverture au USA": "$11,035,485, 17 Octobre 1999",
+      "Total USA": "$37,030,102",
+      "Total dans le monde": "$101,218,804",
+      "Vedette": [
+        {
+          "Nom": "Brad Pitt",
+          "Age": 56,
+          "Personnage": "Tyler Durden"
+        },
+        {
+          "Nom": "Edward Norton",
+          "Age": 51,
+          "Personnage": "The Narrator"
+        },
+        {
+          "Nom": "Meat Loaf",
+          "Age": 72,
+          "Personnage": "Robert 'Bob' Paulsen"
+        }
+      ],
+      "Description": "Un employé de bureau insomniaque et un fabriquant de savons forment un club de combat clandestin qui devient beaucoup plus que ça."
     }
   ]
 }
