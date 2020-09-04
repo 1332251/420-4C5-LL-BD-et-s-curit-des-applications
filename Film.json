@@ -12,17 +12,17 @@
       "Vedette": [
         {
           "Nom": "Sandra Bullock",
-          "Age": 56,
+          "Age": "56",
           "Personnage": "Scarlet Overkill (voix)"
         },
         {
           "Nom": "Jon Hamm",
-          "Age": 49,
+          "Age": "49",
           "Personnage": "Herb Overkill  (voix)"
         },
         {
           "Nom": "Michael Keaton",
-          "Age": 68,
+          "Age": "68",
           "Personnage": "Walter Nelson (voix)"
         }
       ],
@@ -41,17 +41,17 @@
       "Vedette": [
         {
           "Nom": "Robert Downey Jr.",
-          "Age": 55,
+          "Age": "55",
           "Personnage": "Tony Stark"
         },
         {
           "Nom": "Gwyneth Paltrow",
-          "Age": 47,
+          "Age": "47",
           "Personnage": "Pepper Potts"
         },
         {
           "Nom": "Terrence Howard",
-          "Age": 51,
+          "Age": "51",
           "Personnage": "Rhodey"
         }
       ],
@@ -70,17 +70,17 @@
       "Vedette": [
         {
           "Nom": "Brad Pitt",
-          "Age": 56,
+          "Age": "56",
           "Personnage": "Tyler Durden"
         },
         {
           "Nom": "Edward Norton",
-          "Age": 51,
+          "Age": "51",
           "Personnage": "The Narrator"
         },
         {
           "Nom": "Meat Loaf",
-          "Age": 72,
+          "Age": "72",
           "Personnage": "Robert 'Bob' Paulsen"
         }
       ],
