@@ -12,14 +12,17 @@
       "Vedette": [
         {
           "Nom": "Sandra Bullock",
+          "Age": 56,
           "Personnage": "Scarlet Overkill (voix)"
         },
         {
           "Nom": "Jon Hamm",
+          "Age": 49,
           "Personnage": "Herb Overkill  (voix)"
         },
         {
           "Nom": "Michael Keaton",
+          "Age": 68,
           "Personnage": "Walter Nelson (voix)"
         }
       ],
